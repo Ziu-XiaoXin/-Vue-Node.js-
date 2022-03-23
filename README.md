@@ -1,6 +1,8 @@
 # -Vue-Node.js-
 基于Node.js和Vue的资讯系统，系统为毕业设计，源码暂不上传。
 
+基于Node.js和Vue的资讯系统，系统为毕业设计，源码暂不上传。
+
 登陆界面
 ![login](https://user-images.githubusercontent.com/44867694/159665775-adfe00d4-a960-41ba-979b-e64bc1e964f7.png)
 
@@ -19,8 +21,8 @@
 个人中心界面
 ![personal](https://user-images.githubusercontent.com/44867694/159666346-63355170-4d8a-4cef-9016-02d5afe938af.png)
 
+![newsmanagement](https://user-images.githubusercontent.com/44867694/159668176-e40bb075-20ec-4d94-9a47-ae3c8773aeaa.png)
 
-![personalmessage](https://user-images.githubusercontent.com/44867694/159666448-656d9ee8-5287-4635-8619-dc18f4e953d8.png)
 
 管理员界面
 ![admin](https://user-images.githubusercontent.com/44867694/159666516-d82a086d-be06-44c6-8135-93c6d1e72e33.png)
