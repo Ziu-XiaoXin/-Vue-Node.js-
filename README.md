@@ -14,7 +14,8 @@
 ![playnews](https://user-images.githubusercontent.com/44867694/159666142-5e08bcf9-e1af-49ae-9453-b19209e714f1.png)
 
 资讯详情界面</br>
-![login](https://user-images.githubusercontent.com/44867694/159669440-a9de5537-9d51-4c43-9dfc-d11c0b21b35e.png)
+![detail](https://user-images.githubusercontent.com/44867694/159669885-b7d0f956-72bf-4ce1-92b9-4b03f1750315.png)
+
 
 资讯编辑界面</br>
 ![writenews](https://user-images.githubusercontent.com/44867694/159666249-1532e3f1-f263-4fd9-ac89-c00524a647c8.png)
